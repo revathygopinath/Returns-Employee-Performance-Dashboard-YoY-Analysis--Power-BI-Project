@@ -45,7 +45,7 @@ The dataset includes:
   - Returns peak during the second half of the year, especially near holiday seasons.  
 
 ---
-![image alt]https://github.com/revathygopinath/Returns-Employee-Performance-Dashboard-YoY-Analysis--Power-BI-Project/blob/5c12c5288ce545f0d3488564410469e6876ef46f/Dashborad%20Screenshot.png
+![image alt](https://github.com/revathygopinath/Returns-Employee-Performance-Dashboard-YoY-Analysis--Power-BI-Project/blob/5c12c5288ce545f0d3488564410469e6876ef46f/Dashborad%20Screenshot.png)
 
 
 
